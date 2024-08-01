@@ -1,6 +1,8 @@
-# Welcome to Izu's GitHub Profile! 👋
+# Welcome to Izu's GitHub Profile! 👻
 
-![Banner Image](https://i.pinimg.com/564x/96/ac/f3/96acf35515091274809a7f6b4b8a040c.jpg)
+<div align="center">
+  <img src="https://i.pinimg.com/564x/ca/97/48/ca9748127458a6ec8dbe528c841f1a51.jpg" alt="Banner" width="50%" height="auto" style="max-width: 800px; height: auto;">
+</div>
 
 ## About Me
 
@@ -18,7 +20,7 @@ Here are some of the languages and tools I work with:
 
 ## GitHub Stats
 
-![Izu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Izu's GitHub stats](https://github-readme-stats.vercel.app/api?username=izuwashere&show_icons=true&theme=radical)
 
 ## Connect with Me
 
